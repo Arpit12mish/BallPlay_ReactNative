@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": [
+      "DOM",
+      "ESNext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "jsx": "react-native",
+    "resolveJsonModule": true
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+  ]
+}
