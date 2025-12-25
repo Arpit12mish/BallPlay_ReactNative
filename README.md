@@ -1,4 +1,4 @@
-# Learn Game Dev with Expo and Skia!
+# React Native Game Dev with Expo and Skia!
 
 A Ball Play game created using purely React-Native with game development concepts
 
